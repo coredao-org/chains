@@ -6323,7 +6323,7 @@
   "networkId": 1114,
   "nativeCurrency": {
     "name": "Core Blockchain Testnet2 Native Token",
-    "symbol": "tCORE",
+    "symbol": "tCORE2",
     "decimals": 18
   },
   "rpc": ["https://rpc.test2.btcs.network/"],
